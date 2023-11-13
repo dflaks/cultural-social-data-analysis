@@ -1,0 +1,558 @@
+,Country name,year,facial_coverings
+0,Afghanistan,2020,3
+1,Afghanistan,2021,3
+2,Afghanistan,2022,3
+3,Albania,2020,1
+4,Albania,2021,4
+5,Albania,2022,2
+6,Algeria,2020,3
+7,Algeria,2021,3
+8,Algeria,2022,3
+9,Andorra,2020,3
+10,Andorra,2021,3
+11,Andorra,2022,2
+12,Angola,2020,3
+13,Angola,2021,3
+14,Angola,2022,3
+15,Argentina,2020,3
+16,Argentina,2021,3
+17,Argentina,2022,1
+18,Aruba,2020,0
+19,Aruba,2021,3
+20,Aruba,2022,2
+21,Australia,2020,0
+22,Australia,2021,3
+23,Australia,2022,2
+24,Austria,2020,2
+25,Austria,2021,3
+26,Austria,2022,2
+27,Azerbaijan,2020,3
+28,Azerbaijan,2021,2
+29,Azerbaijan,2022,0
+30,Bahamas,2020,3
+31,Bahamas,2021,3
+32,Bahamas,2022,4
+33,Bahrain,2020,3
+34,Bahrain,2021,3
+35,Bahrain,2022,2
+36,Bangladesh,2020,4
+37,Bangladesh,2021,4
+38,Bangladesh,2022,4
+39,Barbados,2020,2
+40,Barbados,2021,3
+41,Barbados,2022,2
+42,Belarus,2020,1
+43,Belarus,2021,3
+44,Belarus,2022,0
+45,Belgium,2020,3
+46,Belgium,2021,3
+47,Belgium,2022,2
+48,Belize,2020,3
+49,Belize,2021,3
+50,Belize,2022,0
+51,Benin,2020,3
+52,Benin,2021,4
+53,Benin,2022,2
+54,Bermuda,2020,2
+55,Bermuda,2021,2
+56,Bermuda,2022,2
+57,Bhutan,2020,4
+58,Bhutan,2021,4
+59,Bhutan,2022,4
+60,Bolivia,2020,3
+61,Bolivia,2021,4
+62,Bolivia,2022,4
+63,Bosnia and Herzegovina,2020,3
+64,Bosnia and Herzegovina,2021,2
+65,Bosnia and Herzegovina,2022,2
+66,Botswana,2020,3
+67,Botswana,2021,3
+68,Botswana,2022,2
+69,Brazil,2020,4
+70,Brazil,2021,4
+71,Brazil,2022,2
+72,Brunei,2020,2
+73,Brunei,2021,2
+74,Brunei,2022,2
+75,Bulgaria,2020,2
+76,Bulgaria,2021,3
+77,Bulgaria,2022,0
+78,Burkina Faso,2020,3
+79,Burkina Faso,2021,4
+80,Burkina Faso,2022,3
+81,Burundi,2020,0
+82,Burundi,2021,1
+83,Burundi,2022,1
+84,Cambodia,2020,1
+85,Cambodia,2021,3
+86,Cambodia,2022,2
+87,Cameroon,2020,3
+88,Cameroon,2021,3
+89,Cameroon,2022,3
+90,Canada,2020,3
+91,Canada,2021,3
+92,Canada,2022,2
+93,Cape Verde,2020,4
+94,Cape Verde,2021,3
+95,Cape Verde,2022,2
+96,Central African Republic,2020,0
+97,Central African Republic,2021,3
+98,Central African Republic,2022,3
+99,Chad,2020,0
+100,Chad,2021,4
+101,Chad,2022,3
+102,Chile,2020,2
+103,Chile,2021,3
+104,Chile,2022,2
+105,China,2020,2
+106,China,2021,2
+107,China,2022,4
+108,Colombia,2020,4
+109,Colombia,2021,3
+110,Colombia,2022,3
+111,Comoros,2020,0
+112,Congo,2020,3
+113,Congo,2021,3
+114,Congo,2022,3
+115,Costa Rica,2020,0
+116,Costa Rica,2021,3
+117,Costa Rica,2022,2
+118,Cote d'Ivoire,2020,3
+119,Cote d'Ivoire,2021,4
+120,Cote d'Ivoire,2022,3
+121,Croatia,2020,0
+122,Croatia,2021,3
+123,Croatia,2022,2
+124,Cuba,2020,3
+125,Cuba,2021,3
+126,Cuba,2022,2
+127,Cyprus,2020,0
+128,Cyprus,2021,3
+129,Cyprus,2022,3
+130,Czechia,2020,3
+131,Czechia,2021,2
+132,Czechia,2022,1
+133,Democratic Republic of Congo,2020,4
+134,Democratic Republic of Congo,2021,3
+135,Democratic Republic of Congo,2022,3
+136,Denmark,2020,0
+137,Denmark,2021,2
+138,Denmark,2022,0
+139,Djibouti,2020,3
+140,Djibouti,2021,4
+141,Djibouti,2022,3
+142,Dominica,2020,3
+143,Dominica,2021,2
+144,Dominica,2022,3
+145,Dominican Republic,2020,3
+146,Dominican Republic,2021,3
+147,Dominican Republic,2022,0
+148,Ecuador,2020,3
+149,Ecuador,2021,3
+150,Ecuador,2022,2
+151,Egypt,2020,3
+152,Egypt,2021,3
+153,Egypt,2022,3
+154,El Salvador,2020,3
+155,El Salvador,2021,4
+156,El Salvador,2022,4
+157,Eritrea,2020,0
+158,Eritrea,2021,3
+159,Eritrea,2022,3
+160,Estonia,2020,1
+161,Estonia,2021,2
+162,Estonia,2022,1
+163,Eswatini,2020,0
+164,Eswatini,2021,4
+165,Eswatini,2022,4
+166,Ethiopia,2020,3
+167,Ethiopia,2021,3
+168,Ethiopia,2022,3
+169,Faeroe Islands,2020,0
+170,Faeroe Islands,2021,2
+171,Faeroe Islands,2022,0
+172,Fiji,2020,2
+173,Fiji,2021,2
+174,Fiji,2022,2
+175,Finland,2020,0
+176,Finland,2021,1
+177,Finland,2022,1
+178,France,2020,4
+179,France,2021,4
+180,France,2022,2
+181,Gabon,2020,3
+182,Gabon,2021,3
+183,Gabon,2022,2
+184,Gambia,2020,0
+185,Gambia,2021,3
+186,Gambia,2022,3
+187,Georgia,2020,2
+188,Georgia,2021,3
+189,Georgia,2022,2
+190,Germany,2020,2
+191,Germany,2021,2
+192,Germany,2022,2
+193,Ghana,2020,4
+194,Ghana,2021,4
+195,Ghana,2022,1
+196,Greece,2020,2
+197,Greece,2021,4
+198,Greece,2022,2
+199,Greenland,2020,0
+200,Greenland,2021,2
+201,Greenland,2022,1
+202,Grenada,2022,3
+203,Guam,2020,3
+204,Guam,2021,3
+205,Guam,2022,2
+206,Guatemala,2020,3
+207,Guatemala,2021,4
+208,Guatemala,2022,2
+209,Guinea,2020,4
+210,Guinea,2021,3
+211,Guinea,2022,3
+212,Guyana,2020,3
+213,Guyana,2021,3
+214,Guyana,2022,1
+215,Haiti,2020,3
+216,Haiti,2021,3
+217,Haiti,2022,2
+218,Honduras,2020,3
+219,Honduras,2021,3
+220,Honduras,2022,3
+221,Hong Kong,2020,1
+222,Hong Kong,2021,2
+223,Hong Kong,2022,2
+224,Hungary,2020,2
+225,Hungary,2021,2
+226,Hungary,2022,2
+227,Iceland,2020,0
+228,Iceland,2021,2
+229,Iceland,2022,0
+230,India,2020,4
+231,India,2021,4
+232,India,2022,3
+233,Indonesia,2020,4
+234,Indonesia,2021,4
+235,Indonesia,2022,2
+236,Iran,2020,0
+237,Iran,2021,3
+238,Iran,2022,2
+239,Iraq,2020,4
+240,Iraq,2021,4
+241,Iraq,2022,2
+242,Ireland,2020,0
+243,Ireland,2021,3
+244,Ireland,2022,1
+245,Israel,2020,3
+246,Israel,2021,2
+247,Israel,2022,2
+248,Italy,2020,4
+249,Italy,2021,4
+250,Italy,2022,2
+251,Jamaica,2020,3
+252,Jamaica,2021,3
+253,Jamaica,2022,0
+254,Japan,2020,1
+255,Japan,2021,1
+256,Japan,2022,1
+257,Jordan,2020,0
+258,Jordan,2021,2
+259,Jordan,2022,2
+260,Kazakhstan,2020,3
+261,Kazakhstan,2021,3
+262,Kazakhstan,2022,1
+263,Kenya,2020,3
+264,Kenya,2021,4
+265,Kenya,2022,1
+266,Kiribati,2020,0
+267,Kiribati,2021,0
+268,Kiribati,2022,4
+269,Kosovo,2020,0
+270,Kosovo,2021,3
+271,Kosovo,2022,1
+272,Kuwait,2020,3
+273,Kuwait,2021,3
+274,Kuwait,2022,1
+275,Kyrgyzstan,2020,3
+276,Kyrgyzstan,2021,2
+277,Kyrgyzstan,2022,2
+278,Laos,2020,4
+279,Laos,2021,3
+280,Laos,2022,3
+281,Latvia,2020,2
+282,Latvia,2021,3
+283,Latvia,2022,2
+284,Lebanon,2020,3
+285,Lebanon,2021,3
+286,Lebanon,2022,1
+287,Lesotho,2020,1
+288,Lesotho,2021,4
+289,Lesotho,2022,4
+290,Liberia,2020,3
+291,Liberia,2021,3
+292,Liberia,2022,4
+293,Libya,2020,0
+294,Libya,2021,3
+295,Libya,2022,3
+296,Liechtenstein,2020,2
+297,Liechtenstein,2021,2
+298,Liechtenstein,2022,1
+299,Lithuania,2020,0
+300,Lithuania,2021,2
+301,Lithuania,2022,1
+302,Luxembourg,2020,2
+303,Luxembourg,2021,2
+304,Luxembourg,2022,0
+305,Macao,2020,2
+306,Macao,2021,2
+307,Macao,2022,2
+308,Madagascar,2020,4
+309,Madagascar,2021,4
+310,Madagascar,2022,3
+311,Malawi,2020,1
+312,Malawi,2021,3
+313,Malawi,2022,3
+314,Malaysia,2020,2
+315,Malaysia,2021,3
+316,Malaysia,2022,2
+317,Mali,2020,3
+318,Mali,2021,3
+319,Mali,2022,0
+320,Malta,2020,0
+321,Malta,2021,4
+322,Malta,2022,2
+323,Mauritania,2020,3
+324,Mauritania,2021,3
+325,Mauritania,2022,3
+326,Mauritius,2020,3
+327,Mauritius,2021,3
+328,Mauritius,2022,2
+329,Mexico,2020,4
+330,Mexico,2021,4
+331,Mexico,2022,2
+332,Moldova,2020,2
+333,Moldova,2021,3
+334,Moldova,2022,1
+335,Monaco,2020,3
+336,Monaco,2021,3
+337,Monaco,2022,2
+338,Mongolia,2020,2
+339,Mongolia,2021,4
+340,Mongolia,2022,2
+341,Morocco,2020,4
+342,Morocco,2021,3
+343,Morocco,2022,3
+344,Mozambique,2020,3
+345,Mozambique,2021,3
+346,Mozambique,2022,2
+347,Myanmar,2020,4
+348,Myanmar,2021,4
+349,Myanmar,2022,4
+350,Namibia,2020,3
+351,Namibia,2021,3
+352,Namibia,2022,0
+353,Nepal,2020,0
+354,Nepal,2021,4
+355,Nepal,2022,4
+356,Netherlands,2020,2
+357,Netherlands,2021,2
+358,Netherlands,2022,0
+359,New Zealand,2020,0
+360,New Zealand,2021,2
+361,New Zealand,2022,2
+362,Nicaragua,2020,0
+363,Nicaragua,2021,1
+364,Nicaragua,2022,0
+365,Niger,2020,3
+366,Niger,2021,3
+367,Niger,2022,2
+368,Nigeria,2020,3
+369,Nigeria,2021,3
+370,Nigeria,2022,2
+371,Norway,2020,0
+372,Norway,2021,2
+373,Norway,2022,1
+374,Oman,2020,4
+375,Oman,2021,3
+376,Oman,2022,0
+377,Pakistan,2020,[0 3]
+378,Pakistan,2021,4
+379,Pakistan,2022,2
+380,Palestine,2020,0
+381,Palestine,2021,3
+382,Palestine,2022,3
+383,Panama,2020,4
+384,Panama,2021,4
+385,Panama,2022,2
+386,Papua New Guinea,2020,3
+387,Papua New Guinea,2021,3
+388,Papua New Guinea,2022,2
+389,Paraguay,2020,0
+390,Paraguay,2021,3
+391,Paraguay,2022,2
+392,Peru,2020,3
+393,Peru,2021,4
+394,Peru,2022,3
+395,Philippines,2020,0
+396,Philippines,2021,4
+397,Philippines,2022,4
+398,Poland,2020,3
+399,Poland,2021,2
+400,Poland,2022,2
+401,Portugal,2020,2
+402,Portugal,2021,3
+403,Portugal,2022,2
+404,Puerto Rico,2020,3
+405,Puerto Rico,2021,3
+406,Puerto Rico,2022,2
+407,Qatar,2020,2
+408,Qatar,2021,4
+409,Qatar,2022,2
+410,Romania,2020,0
+411,Romania,2021,4
+412,Romania,2022,1
+413,Russia,2020,2
+414,Russia,2021,2
+415,Russia,2022,2
+416,Rwanda,2020,3
+417,Rwanda,2021,3
+418,Rwanda,2022,1
+419,San Marino,2020,0
+420,San Marino,2021,3
+421,San Marino,2022,1
+422,Saudi Arabia,2020,3
+423,Saudi Arabia,2021,3
+424,Saudi Arabia,2022,2
+425,Senegal,2020,0
+426,Senegal,2021,3
+427,Senegal,2022,3
+428,Serbia,2020,0
+429,Serbia,2021,3
+430,Serbia,2022,2
+431,Seychelles,2020,0
+432,Seychelles,2021,3
+433,Seychelles,2022,3
+434,Sierra Leone,2020,3
+435,Sierra Leone,2021,3
+436,Sierra Leone,2022,3
+437,Singapore,2020,4
+438,Singapore,2021,4
+439,Singapore,2022,2
+440,Slovakia,2020,3
+441,Slovakia,2021,3
+442,Slovakia,2022,2
+443,Slovenia,2020,2
+444,Slovenia,2021,3
+445,Slovenia,2022,2
+446,Solomon Islands,2020,0
+447,Solomon Islands,2021,0
+448,Solomon Islands,2022,3
+449,Somalia,2020,0
+450,Somalia,2021,3
+451,Somalia,2022,2
+452,South Africa,2020,3
+453,South Africa,2021,3
+454,South Africa,2022,0
+455,South Korea,2020,2
+456,South Korea,2021,3
+457,South Korea,2022,3
+458,South Sudan,2020,3
+459,South Sudan,2021,2
+460,South Sudan,2022,3
+461,Spain,2020,3
+462,Spain,2021,4
+463,Spain,2022,2
+464,Sri Lanka,2020,4
+465,Sri Lanka,2021,3
+466,Sri Lanka,2022,1
+467,Sudan,2020,0
+468,Sudan,2021,4
+469,Sudan,2022,0
+470,Suriname,2020,0
+471,Suriname,2021,4
+472,Suriname,2022,2
+473,Sweden,2020,0
+474,Sweden,2021,0
+475,Sweden,2022,0
+476,Switzerland,2020,0
+477,Switzerland,2021,2
+478,Switzerland,2022,0
+479,Syria,2020,0
+480,Syria,2021,3
+481,Syria,2022,3
+482,Taiwan,2020,1
+483,Taiwan,2021,2
+484,Taiwan,2022,3
+485,Tajikistan,2020,3
+486,Tajikistan,2021,3
+487,Tajikistan,2022,0
+488,Tanzania,2020,2
+489,Tanzania,2021,1
+490,Tanzania,2022,0
+491,Thailand,2020,3
+492,Thailand,2021,4
+493,Thailand,2022,1
+494,Timor,2020,2
+495,Timor,2021,3
+496,Timor,2022,3
+497,Togo,2020,3
+498,Togo,2021,4
+499,Togo,2022,3
+500,Tonga,2020,0
+501,Tonga,2021,0
+502,Tonga,2022,4
+503,Trinidad and Tobago,2020,4
+504,Trinidad and Tobago,2021,4
+505,Trinidad and Tobago,2022,2
+506,Tunisia,2020,0
+507,Tunisia,2021,3
+508,Tunisia,2022,3
+509,Turkey,2020,4
+510,Turkey,2021,4
+511,Turkey,2022,2
+512,Turkmenistan,2020,0
+513,Turkmenistan,2021,3
+514,Turkmenistan,2022,3
+515,Uganda,2020,4
+516,Uganda,2021,3
+517,Uganda,2022,4
+518,Ukraine,2020,3
+519,Ukraine,2021,3
+520,Ukraine,2022,0
+521,United Arab Emirates,2020,3
+522,United Arab Emirates,2021,3
+523,United Arab Emirates,2022,2
+524,United Kingdom,2020,3
+525,United Kingdom,2021,3
+526,United Kingdom,2022,1
+527,United States,2020,4
+528,United States,2021,2
+529,United States,2022,2
+530,United States Virgin Islands,2020,0
+531,United States Virgin Islands,2021,3
+532,United States Virgin Islands,2022,2
+533,Uruguay,2020,2
+534,Uruguay,2021,2
+535,Uruguay,2022,1
+536,Uzbekistan,2020,3
+537,Uzbekistan,2021,3
+538,Uzbekistan,2022,1
+539,Vanuatu,2020,0
+540,Vanuatu,2021,0
+541,Vanuatu,2022,0
+542,Venezuela,2020,3
+543,Venezuela,2021,4
+544,Venezuela,2022,3
+545,Vietnam,2020,2
+546,Vietnam,2021,3
+547,Vietnam,2022,3
+548,Yemen,2020,0
+549,Yemen,2021,1
+550,Yemen,2022,0
+551,Zambia,2020,3
+552,Zambia,2021,3
+553,Zambia,2022,3
+554,Zimbabwe,2020,0
+555,Zimbabwe,2021,3
+556,Zimbabwe,2022,3
